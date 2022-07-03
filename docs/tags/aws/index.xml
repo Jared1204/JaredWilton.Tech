@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AWS - Tag - Jared Wilton&#39;s Tech Blog</title>
+        <link>https://jaredwilton.tech/tags/aws/</link>
+        <description>AWS - Tag - Jared Wilton&#39;s Tech Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 02 Jul 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://jaredwilton.tech/tags/aws/" rel="self" type="application/rss+xml" /><item>
+    <title>AWS</title>
+    <link>https://jaredwilton.tech/second-post/</link>
+    <pubDate>Thu, 02 Jul 2020 15:58:26 &#43;0800</pubDate>
+    <author>Jared Wilton</author>
+    <guid>https://jaredwilton.tech/second-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/second-post/aws.jpg" referrerpolicy="no-referrer">
+            </div>hello world]]></description>
+</item>
+</channel>
+</rss>

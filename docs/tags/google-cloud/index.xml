@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Google Cloud - Tag - Jared Wilton&#39;s Tech Blog</title>
+        <link>https://jaredwilton.tech/tags/google-cloud/</link>
+        <description>Google Cloud - Tag - Jared Wilton&#39;s Tech Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Jul 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://jaredwilton.tech/tags/google-cloud/" rel="self" type="application/rss+xml" /><item>
+    <title>Google Cloud</title>
+    <link>https://jaredwilton.tech/third-post/</link>
+    <pubDate>Fri, 03 Jul 2020 15:58:26 &#43;0800</pubDate>
+    <author>Jared Wilton</author>
+    <guid>https://jaredwilton.tech/third-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/third-post/gcp.png" referrerpolicy="no-referrer">
+            </div>hello world]]></description>
+</item>
+</channel>
+</rss>

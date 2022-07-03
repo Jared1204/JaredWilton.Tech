@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jared Wilton&#39;s Tech Blog</title>
+        <link>https://jaredwilton.tech/</link>
+        <description>A collection of things I have found interesting and learned the hard way</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Jul 2020 15:58:26 &#43;0800</lastBuildDate>
+            <atom:link href="https://jaredwilton.tech/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Google Cloud</title>
+    <link>https://jaredwilton.tech/third-post/</link>
+    <pubDate>Fri, 03 Jul 2020 15:58:26 &#43;0800</pubDate>
+    <author>Jared Wilton</author>
+    <guid>https://jaredwilton.tech/third-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/third-post/gcp.png" referrerpolicy="no-referrer">
+            </div>hello world]]></description>
+</item>
+<item>
+    <title>AWS</title>
+    <link>https://jaredwilton.tech/second-post/</link>
+    <pubDate>Thu, 02 Jul 2020 15:58:26 &#43;0800</pubDate>
+    <author>Jared Wilton</author>
+    <guid>https://jaredwilton.tech/second-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/second-post/aws.jpg" referrerpolicy="no-referrer">
+            </div>hello world]]></description>
+</item>
+<item>
+    <title>Azure</title>
+    <link>https://jaredwilton.tech/first-post/</link>
+    <pubDate>Wed, 01 Jul 2020 15:58:26 &#43;0800</pubDate>
+    <author>Jared Wilton</author>
+    <guid>https://jaredwilton.tech/first-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/first-post/azure.png" referrerpolicy="no-referrer">
+            </div>hello world]]></description>
+</item>
+</channel>
+</rss>
