@@ -3,35 +3,15 @@
         <title>Cloud - Category - Jared Wilton&#39;s Tech Blog</title>
         <link>https://jaredwilton.tech/categories/cloud/</link>
         <description>Cloud - Category - Jared Wilton&#39;s Tech Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Jul 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://jaredwilton.tech/categories/cloud/" rel="self" type="application/rss+xml" /><item>
-    <title>Google Cloud</title>
-    <link>https://jaredwilton.tech/third-post/</link>
-    <pubDate>Fri, 03 Jul 2020 15:58:26 &#43;0800</pubDate>
-    <author>Jared Wilton</author>
-    <guid>https://jaredwilton.tech/third-post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/third-post/gcp.png" referrerpolicy="no-referrer">
-            </div>hello world]]></description>
-</item>
-<item>
-    <title>AWS</title>
-    <link>https://jaredwilton.tech/second-post/</link>
-    <pubDate>Thu, 02 Jul 2020 15:58:26 &#43;0800</pubDate>
-    <author>Jared Wilton</author>
-    <guid>https://jaredwilton.tech/second-post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/posts/second-post/aws.jpg" referrerpolicy="no-referrer">
-            </div>hello world]]></description>
-</item>
-<item>
-    <title>Azure</title>
-    <link>https://jaredwilton.tech/first-post/</link>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Jul 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://jaredwilton.tech/categories/cloud/" rel="self" type="application/rss+xml" /><item>
+    <title>Host Multiple Github Pages With Subdomains</title>
+    <link>https://jaredwilton.tech/post/</link>
     <pubDate>Wed, 01 Jul 2020 15:58:26 &#43;0800</pubDate>
     <author>Jared Wilton</author>
-    <guid>https://jaredwilton.tech/first-post/</guid>
+    <guid>https://jaredwilton.tech/post/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/first-post/azure.png" referrerpolicy="no-referrer">
-            </div>hello world]]></description>
+            </div>Create a repo Install Hugo Get a theme Create a post push to github setup pages see it on their domain set it on your own domain]]></description>
 </item>
 </channel>
 </rss>
