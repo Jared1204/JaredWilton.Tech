@@ -46,14 +46,14 @@ languageName = "English"
     name = "Categories"
     url = "/categories/"
     title = ""
-  [[menu.main]]
-    weight = 3
-    identifier = "about"
-    pre = ""
-    post = ""
-    name = "About"
-    url = "/about/"
-    title = ""
+  # [[menu.main]]
+  #   weight = 3
+  #   identifier = "about"
+  #   pre = ""
+  #   post = ""
+  #   name = "About"
+  #   url = "/about/"
+  #   title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
