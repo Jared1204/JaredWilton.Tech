@@ -3,7 +3,15 @@
         <title>Jared Wilton&#39;s Tech Blog</title>
         <link>https://jaredwilton.tech/</link>
         <description>A collection of things I have found interesting and learned the hard way</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Aug 2022 14:00:00 &#43;1000</lastBuildDate>
             <atom:link href="https://jaredwilton.tech/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Study And Pass Terraform Associate Certification</title>
+    <link>https://jaredwilton.tech/2022-07-04-study-and-pass-terraform-associate-certification/</link>
+    <pubDate>Tue, 23 Aug 2022 14:00:00 &#43;1000</pubDate>
+    <author>Jared Wilton</author>
+    <guid>https://jaredwilton.tech/2022-07-04-study-and-pass-terraform-associate-certification/</guid>
+    <description><![CDATA[<p>My experience studying for and then taking the Terraform Certified Associate exam in two weeks.</p>]]></description>
+</item>
+</channel>
 </rss>

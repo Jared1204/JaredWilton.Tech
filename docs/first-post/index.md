@@ -1,6 +1,0 @@
-# Azure
-
-
-
-hello world
-

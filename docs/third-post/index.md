@@ -1,6 +1,0 @@
-# Google Cloud
-
-
-
-hello world
-

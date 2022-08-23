@@ -1,6 +1,0 @@
-# AWS
-
-
-
-hello world
-
