@@ -14,7 +14,7 @@ categories: [Certifications]
 My experience studying for and then taking the Terraform Certified Associate exam in two weeks.
 <!--more-->
 
-[](https://miro.medium.com/max/2000/1*wAXEwN_JCJUat4f2MA8Gdw.png)
+![](https://miro.medium.com/max/2000/1*wAXEwN_JCJUat4f2MA8Gdw.png)
 ## Study Materials
 
 ### A Cloud Guru — HashiCorp Certified Terraform Associate Course
@@ -54,4 +54,4 @@ Overall, I would say this is a valuable certification to get under your belt. Wh
 
 ## More of my stuff
 
-If you liked this post and want to check out my other work, consider connecting with me on [LinkedIn](https://www.linkedin.com/in/jared-wilton/), checking out my [GitHub](https://github.com/Jared1204) or [buying Me A Beer](https://buymeacoffee.com/dev_jared)                
+If you liked this post and want to check out my other work, consider connecting with me on [LinkedIn](https://www.linkedin.com/in/jared-wilton/), checking out my [GitHub](https://github.com/Jared1204) or [Buying Me A Beer](https://buymeacoffee.com/dev_jared)                
