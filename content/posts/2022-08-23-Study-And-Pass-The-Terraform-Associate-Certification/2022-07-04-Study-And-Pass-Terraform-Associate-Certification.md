@@ -4,7 +4,7 @@ subtitle: ""
 date: 2022-08-23T14:00:00+10:00
 lastmod: 2022-08-23T14:00:00+10:00
 draft: false
-description: ""
+description: "Studying for and passing the Terraform Associate Exam"
 images: []
 lightgallery: true
 tags: [Terraform]
