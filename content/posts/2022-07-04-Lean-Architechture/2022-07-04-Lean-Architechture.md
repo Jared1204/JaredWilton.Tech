@@ -3,7 +3,7 @@ title: "Lean Architechture"
 subtitle: ""
 date: 2022-08-24T12:08:00+10:00
 lastmod: 2022-08-24T12:08:00+10:00
-draft: false
+draft: true
 description: ""
 images: []
 
