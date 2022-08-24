@@ -1,9 +1,9 @@
 ---
 title: "Lean Architechture"
 subtitle: ""
-date: 2020-07-01T15:58:26+08:00
-lastmod: 2020-03-04T15:58:26+08:00
-draft: true
+lastmod: 2022-08-24T12:08:00+10:00
+lastmod: 2022-08-24T12:08:00+10:00
+draft: false
 description: ""
 images: []
 

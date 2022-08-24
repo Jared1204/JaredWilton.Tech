@@ -1,5 +1,5 @@
 ---
-title: "Study And Pass Terraform Associate Certification"
+title: "Study And Pass The Terraform Associate Certification"
 subtitle: ""
 date: 2022-08-23T14:00:00+10:00
 lastmod: 2022-08-23T14:00:00+10:00
